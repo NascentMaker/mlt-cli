@@ -45,7 +45,7 @@ pyreadline3 = {version = "^3.4.1", markers = "sys_platform == 'windows'"}
 pytest = "^7.2.1"
 pylint = "^2.16.2"
 tox = "^4.4.6"
-coverage = "^7.2.1"
+coverage = "^7.2.3"
 
 [tool.pytest.ini_options]
 minversion = "7.0"
