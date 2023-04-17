@@ -42,7 +42,7 @@ gnureadline = {version = "^8.1.2", markers = "sys_platform == 'linux' or sys_pla
 pyreadline3 = {version = "^3.4.1", markers = "sys_platform == 'windows'"}
 
 [tool.poetry.group.dev.dependencies]
-pytest = "^7.2.1"
+pytest = "^7.3.1"
 pylint = "^2.16.2"
 tox = "^4.4.6"
 coverage = "^7.2.1"
