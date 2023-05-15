@@ -37,7 +37,7 @@ restructure = "mlt_cli.restructure:Restructure"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-cliff = "^4.2.0"
+cliff = "^4.3.0"
 gnureadline = {version = "^8.1.2", markers = "sys_platform == 'linux' or sys_platform == 'darwin'"}
 pyreadline3 = {version = "^3.4.1", markers = "sys_platform == 'windows'"}
 
