@@ -77,14 +77,14 @@ files = [
 
 [[package]]
 name = "cliff"
-version = "4.2.0"
+version = "4.3.0"
 description = "Command Line Interface Formulation Framework"
 category = "main"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "cliff-4.2.0-py3-none-any.whl", hash = "sha256:5538a03299f40f83268ba102ed513c2a693ffeb6ac01de7cc119ae9cfc55e55d"},
-    {file = "cliff-4.2.0.tar.gz", hash = "sha256:97fc31e93552e3bec664be9d55ad7f90dc2ab42aad8df29a5b985b644c9b8cf2"},
+    {file = "cliff-4.3.0-py3-none-any.whl", hash = "sha256:db3dc8774f47db9aa86796921ff158d0f023630261c2746c4fff12584b75f5b2"},
+    {file = "cliff-4.3.0.tar.gz", hash = "sha256:fc5b6ebc8fb815332770b2485ee36c09753937c37cce4f3227cdd4e10b33eacc"},
 ]
 
 [package.dependencies]
@@ -726,6 +726,7 @@ category = "main"
 optional = false
 python-versions = "*"
 files = [
+    {file = "wcwidth-0.2.6-py2.py3-none-any.whl", hash = "sha256:795b138f6875577cd91bba52baf9e445cd5118fd32723b460e30a0af30ea230e"},
     {file = "wcwidth-0.2.6.tar.gz", hash = "sha256:a5220780a404dbe3353789870978e472cfe477761f06ee55077256e509b156d0"},
 ]
 
@@ -822,4 +823,4 @@ testing = ["big-O", "flake8 (<5)", "jaraco.functools", "jaraco.itertools", "more
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "6d7f718d620f49ce1a7f4eb6a2c382da3a0accf3cdb5425b301201f8f4e01c85"
+content-hash = "0580d18f37ef3fd97cb136188a00694fd6e40a83ec92d4d014c71ac07405151e"
